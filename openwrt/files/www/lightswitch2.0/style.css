@@ -1,0 +1,21 @@
+#inhalt {
+	text-align:center;
+	}
+#navigation {
+	position:absolute;
+	top: 150px;
+	font-size:large
+	}
+#navigation a:hover {
+	text-decoration:none;
+	color:red;
+	}
+#navigation a {
+	text-decoration:none;
+	}
+a {
+	color:blue;
+	}
+BODY {
+	background-color:#C9C9C9;
+	}
