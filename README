@@ -1,0 +1,3 @@
+Lightswitch2.0 is a project to remote controll your home with an openWRT-router
+via a connected arduino. The connection is over rs232, which most wireless router have build in.
+You only have to solder some wires on the PCB. OpenWRT-Wiki would be helpfull.

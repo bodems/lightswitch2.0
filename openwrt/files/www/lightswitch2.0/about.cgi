@@ -18,8 +18,8 @@
 </div>
 <div id="inhalt">
 	<h1>Über Lightswitch 2.0</h1></br></br></br>
-	<p>Lightswitch 2.0 ist unter der 
-	<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> Lizenz veröffentlicht.</br>
+	<p>Lightswitch2.0 licencend under 
+	<a href=https://www.gnu.org/licenses/gpl.txt">GPLv3</a> Lizenz veröffentlicht.</br>
 	Das Lightswitch Projekt ist durch eine Idee des #wardriving Channels im Quakenet entstanden.</p></br>
 	<img src="/lightswitch2.0/img/cc-by-sa.png"></br>
 	<p>Version: 0.1</p>

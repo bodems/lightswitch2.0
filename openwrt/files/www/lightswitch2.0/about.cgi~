@@ -25,6 +25,7 @@
 	<p>Version: 0.1</p>
 	<p>Feature Request:</p>
 	<li>Umstellung der Steuervorgänge auf AVR-Mikrocontroller</li>
+	<li>CAN-Bus</li>
 	<li>Anzeige der Schaltzustände im Webinterface mittels Datenbank</li>
 	<li>Unterstützung für Kaffeemaschinen</li>
 	<li>Unterstützung für Rolladen</li>
